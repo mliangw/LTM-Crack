@@ -1,0 +1,5 @@
+numpy==2.4.6
+scipy==1.17.1
+opencv-python-headless==4.13.0.92
+scikit-image==0.25.2
+matplotlib==3.10.8
